@@ -15,7 +15,7 @@ print (var + var2)
 camelcase: nombreMascota
 pacalcase: NombreMascota
 snake_case: Nombre_mascota
-kebab-case: Nombre-mascota
+kebab_case: Nombre-mascota
 
 '''Declarando múltiples variables en una sola línea'''
 nombre, apellido, mote = 'Marcos', 'Carmona', 'Cuca'
