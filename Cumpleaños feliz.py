@@ -1,4 +1,7 @@
+print('introduce el nombre')
+name = input()
 cancion1 = 'Cuampleaños feliz...'
-cancion2 = 'Te deseamos todos...'
+cancion2 = 'Te deseamos, '
 
-print (cancion1 * 2 + cancion2 + cancion1 )
+cancion =  (cancion1 * 2 + cancion2 + name + ' ', cancion1.lower())
+print (cancion)
