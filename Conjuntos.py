@@ -5,3 +5,6 @@ entre llaves {} aunque no iran en parejas'''
 set1 = set([1,2,3,4])
 print (set1)
 
+
+
+
