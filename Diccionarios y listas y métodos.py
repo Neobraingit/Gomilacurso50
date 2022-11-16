@@ -14,7 +14,7 @@ print (diccionario.get('a')) # Recibe como valor una clave y nos devuelve el val
 print (diccionario.pop('a'))# Recibe como parámetro una clave, la devuelve y la elimina
 print (diccionario.setdefault('h')) # Agrega un nuevo elemento al diccionario
 
-'''Construyendo diccionarios con dict()'''
+
 
 
 
